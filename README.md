@@ -11,6 +11,6 @@ Herman Sahni and Suresh Paul. September 2019. Economic Value of Agrowaste in Dev
 Climate Change, Environmental impact, Agro‐wastes, Biofuel production, Economic value modeling, Cost‐benefit analysis, Developing countries
 
 # Links
-Buy Book at [https://www.wiley.com/en-us/Byproducts+from+Agriculture+and+Fisheries:+Adding+Value+for+Food,+Feed,+Pharma+and+Fuels-p-9781119383970](Wiley.com)
-DOI: [https://doi.org/10.1002/9781119383956.ch25](10.1002/9781119383956.ch25)
-SSRN: [https://ssrn.com/abstract=3282087](ssrn.com/abstract=3282087)
+- Buy Book at [Wiley.com](https://www.wiley.com/en-us/Byproducts+from+Agriculture+and+Fisheries:+Adding+Value+for+Food,+Feed,+Pharma+and+Fuels-p-9781119383970)
+- DOI: [10.1002/9781119383956.ch25](https://doi.org/10.1002/9781119383956.ch25)
+- SSRN: [ssrn.com/abstract=3282087](https://ssrn.com/abstract=3282087)
