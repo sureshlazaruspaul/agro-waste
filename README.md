@@ -16,6 +16,7 @@ Climate Change, Environmental impact, Agro‐wastes, Biofuel production, Economi
 
 # *About the book*
 
+![Figure 1](bookcover.jpeg)
 
 Ranging from biofuels to building materials, and from cosmetics to pharmaceuticals, the list of products that may be manufactured using discards from farming and fishery operations is extensive.
 
